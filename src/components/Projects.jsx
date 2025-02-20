@@ -1,9 +1,9 @@
 import React from 'react'
-import Portfolio from '../assets/Portfolio.png'
-import SpicyBites from '../assets/SpicyBites.png'
-import Youtube from '../assets/Youtube.png'
-import Webelite from '../assets/Webelite.png'
-import Supercar from '../assets/Supercar.png'
+import imgportfolio from '../assets/imgportfolio.png'
+import Appoinment from '../assets/Appoinment.png'
+import usermanagement from '../assets/usermanagement.png'
+import Jobbyapp from '../assets/Jobbyapp.png'
+import matchgame from '../assets/matchgame.png'
 import Cards from './Cards'
 
 
@@ -13,37 +13,37 @@ const Projects = () => {
         {
           title: 'Portfolio',
           desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
-          image: Portfolio,
-          live: "https://rohitsingh93300-portfolio.vercel.app/",
-          github: "https://github.com/rohitsingh93300/portfolio"
+          image: imgportfolio,
+          live: "https://my-portfolio-w1vt-hemalathanunavaths-projects.vercel.app/",
+          // github: "https://github.com/rohitsingh93300/portfolio"
         },
         {
-          title: 'Spicy Bites',
-          desc: 'The team at Webelite Builders exceeded our expectations with their digital marketing expertise. Highly recommend!',
-          image: SpicyBites,
-          live: "https://spicybites.netlify.app/",
-          github: "https://github.com/rohitsingh93300/YtSpicyBites"
+          title: 'Appointment',
+          desc: 'Book appointments hassle-free with our easy-to-use scheduling platform. Stay organized and never miss a meeting!',
+          image: Appoinment,
+          live: "https://hemalathaapp.ccbp.tech/"
+          // github: "https://hemalathaapp.ccbp.tech/"
         },
         {
-          title: 'YouTube Clone',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
-          image: Youtube,
-          live: "https://youtube-clone-93300.netlify.app/",
-          github: "https://github.com/rohitsingh93300/YouTube-clone"
+          title: 'User Management',
+          desc: 'Effortlessly manage users with secure access control and role-based permissions. Simplify user onboarding and administration!',
+          image: usermanagement,
+          live: "https://user-dashboard-git-main-hemalathanunavaths-projects.vercel.app/",
+          // github: "https://github.com/HemalathaNunavath/user_dashboard.git"
         },
         {
-          title: 'Webelite builder',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
-          image: Webelite,
-          live: "https://www.webelitebuilders.com/",
+          title: 'Jobby App',
+          desc: 'Find your dream job with Jobby App—quick, easy, and tailored to your skills. Connect with top employers and start your career today!',
+          image:Jobbyapp,
+          live: "https://hemajobby.ccbp.tech/",
           github: "#"
         },
         {
-          title: 'Super Car',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
-          image: Supercar,
-          live: "https://supercar123.netlify.app/",
-          github: "https://github.com/rohitsingh93300/supercars"
+          title: 'Match Game',
+          desc: 'Bridge the gap between opportunities and talent with smart matching. Connect effortlessly and find the perfect fit!',
+          image: matchgame,
+          live: "https://appmatch.ccbp.tech/",
+          // github: "https://github.com/rohitsingh93300/supercars"
         },
       ];
 
