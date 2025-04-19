@@ -14,7 +14,7 @@ const Projects = () => {
           title: 'Portfolio',
           desc: 'Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.',
           image: imgportfolio,
-          live: "https://my-portfolio-w1vt-hemalathanunavaths-projects.vercel.app/",
+          live: "https://hema-portfolio-uij3-git-main-hemalathanunavaths-projects.vercel.app/",
           // github: "https://github.com/rohitsingh93300/portfolio"
         },
         {
